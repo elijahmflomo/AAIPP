@@ -1,3 +1,1 @@
-# AAIPP
-
-AI Assisted Problem Solving Using Python - Assignment 1
+# AI Assisted Problem Solving Using Python Lab Assignments Repo.
